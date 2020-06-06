@@ -14,6 +14,6 @@ public class Test_GitHub : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log("hola");
+        Debug.Log("hola,estamos en la version 2.0 editada");
     }
 }
